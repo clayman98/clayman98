@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clayman98
-- 👀 I’m interested in the genetic analysis of complex diseases
-- 🌱 I’m currently learning medicine as a first year in an MD/PhD program
+- 👀 I’m interested in the genetics of complex diseases
+- 🌱 I’m currently working on genomic-informed risk assessments for dementia with polygenic scores
 - 📫 How to reach me: please reach out @ claytonmansel@outlook.com
 
 <!---
